@@ -2,7 +2,7 @@
 
 The frontend is the service in RobotShop to serve the web content over Nginx.
 
-To Install Nginx.
+To Install Nginx. 
 
 ```
 # yum install nginx -y
